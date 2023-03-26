@@ -1,0 +1,11 @@
+
+for(var i =1; i<=50; i++){
+
+	if(i == 17 || i == 45 ){
+		continue;
+	}
+
+	document.write(i + "<br>");
+
+}
+

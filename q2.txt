@@ -1,0 +1,10 @@
+
+// var arr = [];
+
+// for(var i = 0; i <5; i++){
+
+// 	var n = parseInt(prompt("enter the number"));
+// 	arr[i] = n;
+// }
+
+// console.log(arr);
